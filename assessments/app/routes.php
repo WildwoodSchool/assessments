@@ -13,14 +13,11 @@
 Route::get('users', function()
 {
     return View::make('users');
-<<<<<<< HEAD
 });
 
 Route::get('admin', function()
 {
     return View::make('users');
-=======
->>>>>>> 4dacf007ab4c33609b1b924098ba20b0ee6c85c8
 });
 
 
